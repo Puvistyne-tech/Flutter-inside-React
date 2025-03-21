@@ -71,3 +71,5 @@ app.*.map.json
 *.xcworkspace
 !*.xcworkspace/contents.xcworkspacedata
 !*.xcworkspace/!default.xcworkspace/contents.xcworkspacedata
+*.g.dart
+*.freezed.dart

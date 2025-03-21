@@ -73,6 +73,17 @@ yarn-error.log
 # testing
 /coverage
 
+# Test files
+**/*.test.tsx
+**/*.test.ts
+**/*.test.js
+**/*.test.jsx
+
+# Bundle files
+*.bundle
+*.bundle.js
+*.bundle.map
+
 # Yarn
 .yarn/*
 !.yarn/patches
