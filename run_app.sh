@@ -38,6 +38,32 @@ check_prerequisites() {
         missing_deps+=("CocoaPods")
     fi
     
+    # Check for Android device if running Android
+    if [ "$1" = "android" ]; then
+        if ! command_exists adb; then
+            missing_deps+=("Android Debug Bridge (adb)")
+        else
+            # Check for either emulator or physical device
+            if ! adb devices | grep -q "device$"; then
+                print_message "No Android devices found. Please either:" "$YELLOW"
+                print_message "1. Connect a physical device via USB with USB debugging enabled" "$YELLOW"
+                print_message "   - Enable Developer Options (tap Build Number 7 times in Settings > About Phone)" "$YELLOW"
+                print_message "   - Enable USB Debugging in Developer Options" "$YELLOW"
+                print_message "   - Connect device via USB and accept the debugging authorization prompt" "$YELLOW"
+                print_message "2. Or create an emulator using Android Studio:" "$YELLOW"
+                print_message "   - Open Android Studio" "$YELLOW"
+                print_message "   - Go to Tools > Device Manager" "$YELLOW"
+                print_message "   - Click 'Create Device'" "$YELLOW"
+                print_message "   - Select a phone (e.g., Pixel 2)" "$YELLOW"
+                print_message "   - Download and select a system image (e.g., API 33)" "$YELLOW"
+                print_message "   - Complete the setup" "$YELLOW"
+                exit 1
+            else
+                print_message "Android device found!" "$GREEN"
+            fi
+        fi
+    fi
+    
     if [ ${#missing_deps[@]} -ne 0 ]; then
         print_message "Missing prerequisites:" "$RED"
         for dep in "${missing_deps[@]}"; do
@@ -70,13 +96,14 @@ setup_flutter_module() {
     print_message "Generating code..." "$YELLOW"
     flutter pub run build_runner build --delete-conflicting-outputs
     
-    # Build for Android
-    print_message "Building for Android..." "$YELLOW"
-    flutter build aar
-    
-    # Build for iOS
-    print_message "Building for iOS..." "$YELLOW"
-    flutter build ios-framework
+    # Build for specified platform only
+    if [ "$1" = "android" ]; then
+        print_message "Building for Android..." "$YELLOW"
+        flutter build aar
+    elif [ "$1" = "ios" ]; then
+        print_message "Building for iOS..." "$YELLOW"
+        flutter build ios-framework
+    fi
     
     cd ..
     print_message "Flutter module setup completed!" "$GREEN"
@@ -92,19 +119,33 @@ setup_react_native() {
     print_message "Installing npm dependencies..." "$YELLOW"
     npm install
     
-    # Setup iOS
-    if [ -d "ios" ]; then
+    # Setup platform-specific dependencies
+    if [ "$1" = "ios" ]; then
         print_message "Setting up iOS..." "$YELLOW"
         cd ios
         pod install
         cd ..
-    fi
-    
-    # Setup Android
-    if [ -d "android" ]; then
+    elif [ "$1" = "android" ]; then
         print_message "Setting up Android..." "$YELLOW"
         cd android
+        # Ensure gradle wrapper exists
+        if [ ! -f "gradlew" ]; then
+            print_message "Initializing Gradle wrapper..." "$YELLOW"
+            gradle wrapper
+        fi
         chmod +x gradlew
+        # Ensure gradle wrapper properties exist
+        if [ ! -f "gradle/wrapper/gradle-wrapper.properties" ]; then
+            print_message "Creating gradle wrapper properties..." "$YELLOW"
+            mkdir -p gradle/wrapper
+            cat > gradle/wrapper/gradle-wrapper.properties << EOL
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.3-all.zip
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+EOL
+        fi
         cd ..
     fi
     
@@ -134,47 +175,46 @@ get_absolute_path() {
 
 # Run the app
 run_app() {
-    print_message "Starting the app..." "$YELLOW"
+    print_message "Starting the app for $1..." "$YELLOW"
     
     # Get the absolute path of the project
     PROJECT_PATH=$(get_absolute_path)
-    
-    # Create a temporary script for Metro bundler
-    cat > "$PROJECT_PATH/start_metro.sh" << EOL
-#!/bin/bash
-cd "$PROJECT_PATH/rnapp"
-npm run start
-EOL
-    chmod +x "$PROJECT_PATH/start_metro.sh"
     
     # Create a temporary script for running the app
     cat > "$PROJECT_PATH/run_platform.sh" << EOL
 #!/bin/bash
 cd "$PROJECT_PATH/rnapp"
+echo "Starting $1 app..."
 npm run $1
 EOL
     chmod +x "$PROJECT_PATH/run_platform.sh"
     
-    # Open Metro bundler in a new terminal window
+    # Kill existing Metro process if it's running
+    print_message "Checking for existing Metro process..." "$YELLOW"
+    lsof -ti:8081 | xargs kill -9 2>/dev/null || true
+    
+    # Start Metro bundler in current terminal
+    print_message "Starting Metro bundler in current terminal..." "$GREEN"
+    cd "$PROJECT_PATH/rnapp"
+    npm run start &
+    METRO_PID=$!
+    
+    # Wait for Metro to start
+    sleep 8
+    
+    # Open app in a new terminal window
     if [[ "$OSTYPE" == "darwin"* ]]; then
         # macOS
-        osascript -e "tell app \"Terminal\" to do script \"$PROJECT_PATH/start_metro.sh\""
-        # Wait for Metro to start
-        sleep 5
-        # Open app in another terminal window
         osascript -e "tell app \"Terminal\" to do script \"$PROJECT_PATH/run_platform.sh\""
+        print_message "App window opened" "$GREEN"
     else
         # Linux
-        gnome-terminal -- bash -c "$PROJECT_PATH/start_metro.sh; exec bash"
-        # Wait for Metro to start
-        sleep 5
-        # Open app in another terminal window
         gnome-terminal -- bash -c "$PROJECT_PATH/run_platform.sh; exec bash"
+        print_message "App window opened" "$GREEN"
     fi
     
-    # Clean up temporary scripts after a delay
+    # Clean up temporary script after a delay
     sleep 2
-    rm "$PROJECT_PATH/start_metro.sh"
     rm "$PROJECT_PATH/run_platform.sh"
 }
 
@@ -182,18 +222,30 @@ EOL
 main() {
     # Check if platform argument is provided
     if [ -z "$1" ]; then
-        print_message "Usage: ./run_app.sh [android|ios]" "$RED"
+        print_message "No platform specified. Starting both Android and iOS..." "$YELLOW"
+        print_message "Starting Android..." "$YELLOW"
+        run_app "android"
+        print_message "Waiting 10 seconds before starting iOS..." "$YELLOW"
+        sleep 10
+        print_message "Starting iOS..." "$YELLOW"
+        run_app "ios"
+        exit 0
+    fi
+    
+    # Check if the platform argument is valid
+    if [ "$1" != "android" ] && [ "$1" != "ios" ]; then
+        print_message "Invalid platform. Use 'android' or 'ios'" "$RED"
         exit 1
     fi
     
     # Check prerequisites
-    check_prerequisites
+    check_prerequisites "$1"
     
     # Setup Flutter module
-    setup_flutter_module
+    setup_flutter_module "$1"
     
     # Setup React Native app
-    setup_react_native
+    setup_react_native "$1"
     
     # Clear caches
     # clear_caches

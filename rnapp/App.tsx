@@ -7,7 +7,7 @@ import {
   Text,
   Alert,
 } from 'react-native';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+import EncryptedStorage from 'react-native-encrypted-storage';
 import UserIdInput from './src/components/UserIdInput';
 import ProfileView from './src/components/ProfileView';
 
@@ -24,7 +24,7 @@ function App(): React.JSX.Element {
 
   const loadSavedUserId = async () => {
     try {
-      const savedUserId = await AsyncStorage.getItem(USER_ID_KEY);
+      const savedUserId = await EncryptedStorage.getItem(USER_ID_KEY);
       if (savedUserId) {
         setUserId(savedUserId);
       }
@@ -35,7 +35,7 @@ function App(): React.JSX.Element {
 
   const handleSaveUserId = async (newUserId: string) => {
     try {
-      await AsyncStorage.setItem(USER_ID_KEY, newUserId);
+      await EncryptedStorage.setItem(USER_ID_KEY, newUserId);
       setUserId(newUserId);
       setSelectedTab(1); // Switch to profile tab
     } catch (error) {
