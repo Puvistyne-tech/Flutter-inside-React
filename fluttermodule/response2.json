@@ -1,0 +1,404 @@
+{
+  "id": 3,
+  "first_name": "Ana'",
+  "last_name": "\u00cfs",
+  "info": "F, 39 - 165 cm / 53 kg - Ch\u00e2teauroux, France",
+  "email": "zaia_49@hotmail.com",
+  "picture": [
+    {
+      "url": "https://cdn-staging.azeoo.com/users/3/thumbnail/59d46f3eac68e.jpg",
+      "label": "thumbnail"
+    },
+    {
+      "url": "https://cdn-staging.azeoo.com/users/3/small/59d46f3eac68e.jpg",
+      "label": "small"
+    },
+    {
+      "url": "https://cdn-staging.azeoo.com/users/3/large/59d46f3eac68e.jpg",
+      "label": "large"
+    }
+  ],
+  "account_type": "free",
+  "account_type_club": null,
+  "country_flag": "https://flagcdn.com/64x48/fr.png",
+  "points": 323,
+  "badges_count": 1,
+  "badges": [
+    {
+      "id": 56,
+      "name": "Accomplished athlete",
+      "description": "Gagnez ce badge en cumulant plus de 10 000 points d'exp\u00e9rience.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/56-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/56-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Active person",
+      "description": "Gagnez ce badge en cumulant 20 heures d'entra\u00eenement.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/10-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/10-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Addicted",
+      "description": "Gagnez ce badge en cumulant 500 heures d'entra\u00eenement.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/14-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/14-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "April Fools' Day",
+      "description": "Gagnez ce badge en vous entra\u00eenant le 1er Avril.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/151-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/151-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Asteroids Day",
+      "description": "Gagnez ce badge en vous entra\u00eenant durant la journ\u00e9e internationale des ast\u00e9ro\u00efdes.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/262-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/262-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Bar raiser",
+      "description": "Gagnez ce badge en soulevant 2 000 tonnes cumul\u00e9es.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/19-v3.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/19-v3.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Bastille Day",
+      "description": "Gagnez ce badge en vous entra\u00eenant le jour de la f\u00eate nationale en France.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/136-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/136-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Beer Day",
+      "description": "Gagnez ce badge en vous entra\u00eenant durant la journ\u00e9e internationale de la bi\u00e8re.",
+      "date": null,
+      "count": 0,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/180-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/180-v2.png",
+          "label": "small"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    { "id": "40", "name": "Marche" },
+    { "id": "43", "name": "Natation" },
+    { "id": "50", "name": "Randonn\u00e9e" },
+    { "id": "53", "name": "Roller" }
+  ],
+  "is_following": null,
+  "coach_attachment_state": null,
+  "is_public_coach": false,
+  "birthday": { "value": "1985-12-12", "permission": "public" },
+  "gender": "female",
+  "bmr": "1237",
+  "height": 165,
+  "formatted_height": "165 cm",
+  "weight": 53,
+  "formatted_weight": "53 kg",
+  "weight_goal": 53,
+  "formatted_weight_goal": "53 kg",
+  "level": "beginner",
+  "goal": { "value": "transform", "permission": "public" },
+  "city": { "value": "Ch\u00e2teauroux", "permission": "public" },
+  "country_code": "FR",
+  "language": "fr",
+  "location": { "lng": 1.686779, "lat": 46.811434 },
+  "is_follower": null,
+  "followers_count": 73,
+  "workouts_count": 3,
+  "feeds_count": 3,
+  "recent_activity": [
+    { "date": "2025-03-21", "duration": 0 },
+    { "date": "2025-03-20", "duration": 0 },
+    { "date": "2025-03-19", "duration": 0 },
+    { "date": "2025-03-18", "duration": 0 },
+    { "date": "2025-03-17", "duration": 0 },
+    { "date": "2025-03-16", "duration": 0 },
+    { "date": "2025-03-15", "duration": 0 },
+    { "date": "2025-03-14", "duration": 0 },
+    { "date": "2025-03-13", "duration": 0 },
+    { "date": "2025-03-12", "duration": 0 },
+    { "date": "2025-03-11", "duration": 0 },
+    { "date": "2025-03-10", "duration": 0 },
+    { "date": "2025-03-09", "duration": 0 },
+    { "date": "2025-03-08", "duration": 0 },
+    { "date": "2025-03-07", "duration": 0 }
+  ],
+  "programs_count": 1,
+  "programs": [
+    {
+      "id": 2,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 46,
+        "name": "Sculpter son corps - Phase 1",
+        "caption": "Donnez de la d\u00e9finition \u00e0 vos muscles !",
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/46",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 8,
+        "author": null,
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/thumbnail/132996960-bikini.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/small/132996960-bikini.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/medium/132996960-bikini.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/large/132996960-bikini.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/small-wide/132996960-bikini.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/medium-wide/132996960-bikini.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/large-wide/132996960-bikini.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 12, "name": "3 entra\u00eenements par semaine" },
+      "started_at": "2017-10-07",
+      "ended_at": "2017-10-07",
+      "state": "canceled",
+      "achievement": 4,
+      "achievement_days": "",
+      "created_at": "2017-10-04T05:24:08Z",
+      "updated_at": "2017-10-07T07:52:31Z"
+    }
+  ],
+  "coach": null,
+  "clubs": null,
+  "coachs": null,
+  "teams": null,
+  "quotes": null,
+  "about": null,
+  "about_diet": null,
+  "about_training": null,
+  "about_training_schedule": null,
+  "contacts": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null,
+    "pinterest": null,
+    "tiktok": null,
+    "snapchat": null,
+    "youtube": null,
+    "website": null,
+    "email": null,
+    "phone": null
+  },
+  "is_email_verified": false,
+  "is_setup_done": true,
+  "setup_fields": {
+    "password": false,
+    "club_id": false,
+    "birthday": true,
+    "gender": true,
+    "level": true,
+    "goal": true
+  },
+  "is_test": false,
+  "has_cometchat_account": false,
+  "chat_enabled": false,
+  "training_permission": "public",
+  "nutrition_permission": "coach",
+  "clubs_permission": "public",
+  "coachs_permission": "public",
+  "body_permission": "public",
+  "leaderboard_disabled": false,
+  "subscriptions": [],
+  "subscription": null,
+  "white_labels": [],
+  "sso_oneconciergerie_enabled": false,
+  "timezone": "Europe/Paris",
+  "premium_label": null,
+  "disabled_premium": false,
+  "diago_link": null,
+  "invoices_link": null,
+  "created_at": "2017-10-04T05:18:54Z",
+  "updated_at": "2020-01-10T10:25:36Z",
+  "last_activity": "2020-01-10T10:25:36Z",
+  "contents": [
+    {
+      "name": "Programmes",
+      "caption": null,
+      "url": "https://api.azeoo.dev/v1/users/3/programs",
+      "type": "large",
+      "items": [
+        {
+          "id": 2,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 46,
+            "name": "Sculpter son corps - Phase 1",
+            "caption": "Donnez de la d\u00e9finition \u00e0 vos muscles !",
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/46",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 8,
+            "author": null,
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/thumbnail/132996960-bikini.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/small/132996960-bikini.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/medium/132996960-bikini.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/large/132996960-bikini.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/small-wide/132996960-bikini.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/medium-wide/132996960-bikini.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/large-wide/132996960-bikini.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": { "id": 12, "name": "3 entra\u00eenements par semaine" },
+          "started_at": "2017-10-07",
+          "ended_at": "2017-10-07",
+          "state": "canceled",
+          "achievement": 4,
+          "achievement_days": "",
+          "created_at": "2017-10-04T05:24:08Z",
+          "updated_at": "2017-10-07T07:52:31Z"
+        }
+      ]
+    }
+  ],
+  "can_contact": false,
+  "teams_count": 0,
+  "can_access_stats_all_periods": false,
+  "can_set_favorite": false,
+  "can_filter_by_equipment": false,
+  "can_automatically_update_next_training": false,
+  "can_create_exercise": false,
+  "can_create_free_training": true,
+  "can_log_activity": true,
+  "can_show_customers": false,
+  "can_delete_account": true,
+  "subscriptions_disabled": false
+}

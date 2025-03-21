@@ -1,0 +1,2693 @@
+{
+  "id": 1,
+  "first_name": "Samuel",
+  "last_name": "Verdier",
+  "info": "H, 48 - 175 cm / 106,6 kg - Montpellier, France",
+  "email": "samuel.verdier@gmail.com",
+  "picture": [
+    {
+      "url": "https://cdn-staging.azeoo.com/users/1/thumbnail/5c497ab871644.jpg",
+      "label": "thumbnail"
+    },
+    {
+      "url": "https://cdn-staging.azeoo.com/users/1/small/5c497ab871644.jpg",
+      "label": "small"
+    },
+    {
+      "url": "https://cdn-staging.azeoo.com/users/1/large/5c497ab871644.jpg",
+      "label": "large"
+    }
+  ],
+  "account_type": "premium",
+  "account_type_club": null,
+  "country_flag": "https://flagcdn.com/64x48/fr.png",
+  "points": 156169,
+  "badges_count": 71,
+  "badges": [
+    {
+      "id": 129,
+      "name": "Fitness lover",
+      "description": "Vous avez gagn\u00e9 3 fois ce badge en vous entra\u00eenant le jour de la St Valentin.",
+      "date": "2025-02-14",
+      "count": 3,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/129-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/129-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Vegan Day",
+      "description": "Vous avez gagn\u00e9 4 fois ce badge en vous entra\u00eenant durant la journ\u00e9e internationale Vegan.",
+      "date": "2024-11-01",
+      "count": 4,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/184-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/184-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Compliment Day",
+      "description": "Vous avez gagn\u00e9 2 fois ce badge en vous entra\u00eenant durant la journ\u00e9e internationale du compliment.",
+      "date": "2024-03-01",
+      "count": 2,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/200-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/200-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Mardi Gras",
+      "description": "Vous avez gagn\u00e9 3 fois ce badge en vous entra\u00eenant durant Mardi Gras.",
+      "date": "2024-02-21",
+      "count": 3,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/172-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/172-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Blue Monday Day",
+      "description": "Vous avez gagn\u00e9 3 fois ce badge en vous entra\u00eenant durant la journ\u00e9e internationale du Blue Monday.",
+      "date": "2024-01-18",
+      "count": 3,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/254-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/254-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Happy birthday",
+      "description": "Vous avez gagn\u00e9 1 fois ce badge en vous entra\u00eenant le jour de votre anniversaire.",
+      "date": "2024-01-16",
+      "count": 1,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/115-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/115-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Black Friday",
+      "description": "Vous avez gagn\u00e9 2 fois ce badge en vous entra\u00eenant durant la journ\u00e9e du Black Friday.",
+      "date": "2023-11-24",
+      "count": 2,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/153-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/153-v2.png",
+          "label": "small"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Men's Day",
+      "description": "Vous avez gagn\u00e9 4 fois ce badge en vous entra\u00eenant durant la journ\u00e9e internationale de l'homme.",
+      "date": "2023-11-19",
+      "count": 4,
+      "images": [
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/thumbnail/149-v2.png",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/badges/small/149-v2.png",
+          "label": "small"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    { "id": "21", "name": "Crossfit" },
+    { "id": "42", "name": "Musculation" }
+  ],
+  "is_following": null,
+  "coach_attachment_state": null,
+  "is_public_coach": false,
+  "birthday": { "value": "1977-01-16", "permission": "private" },
+  "gender": "male",
+  "bmr": "2050",
+  "height": 175,
+  "formatted_height": "175 cm",
+  "weight": 106.6,
+  "formatted_weight": "106,6 kg",
+  "weight_goal": 71,
+  "formatted_weight_goal": "71 kg",
+  "level": "intermediate",
+  "goal": { "value": "transform", "permission": "public" },
+  "city": { "value": "Montpellier", "permission": "public" },
+  "country_code": "FR",
+  "language": "fr",
+  "location": { "lng": 3.9047166, "lat": 43.6086147 },
+  "is_follower": null,
+  "followers_count": 2444,
+  "workouts_count": 873,
+  "feeds_count": 738,
+  "recent_activity": [
+    { "date": "2025-03-21", "duration": 0 },
+    { "date": "2025-03-20", "duration": 0 },
+    { "date": "2025-03-19", "duration": 0 },
+    { "date": "2025-03-18", "duration": 0 },
+    { "date": "2025-03-17", "duration": 0 },
+    { "date": "2025-03-16", "duration": 0 },
+    { "date": "2025-03-15", "duration": 0 },
+    { "date": "2025-03-14", "duration": 0 },
+    { "date": "2025-03-13", "duration": 0 },
+    { "date": "2025-03-12", "duration": 0 },
+    { "date": "2025-03-11", "duration": 184 },
+    { "date": "2025-03-10", "duration": 87 },
+    { "date": "2025-03-09", "duration": 0 },
+    { "date": "2025-03-08", "duration": 0 },
+    { "date": "2025-03-07", "duration": 0 }
+  ],
+  "programs_count": 15,
+  "programs": [
+    {
+      "id": 320323,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 82401,
+        "name": "Test prog delete",
+        "caption": null,
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/82401",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 8,
+        "author": {
+          "id": 44320,
+          "name": "Demo Club",
+          "is_ghost": false,
+          "is_manager": false,
+          "is_coach": false,
+          "photos": [
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "thumbnail"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "small"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "large"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "medium-wide"
+            }
+          ],
+          "type": "club"
+        },
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 82240, "name": "2 entra\u00eenements par semaine" },
+      "started_at": "2025-03-10",
+      "ended_at": "2025-03-11",
+      "state": "in_progress",
+      "achievement": 50,
+      "achievement_days": "1/2",
+      "created_at": "2025-03-10T08:33:18Z",
+      "updated_at": "2025-03-11T14:40:59Z"
+    },
+    {
+      "id": 320324,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 79630,
+        "name": "Cuisses / abdos / fessier",
+        "caption": null,
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/79630",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 2,
+        "author": {
+          "id": 44320,
+          "name": "Demo Club",
+          "is_ghost": false,
+          "is_manager": false,
+          "is_coach": false,
+          "photos": [
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "thumbnail"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "small"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "large"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "medium-wide"
+            }
+          ],
+          "type": "club"
+        },
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/thumbnail/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/small/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/medium/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/large/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/small-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/medium-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/programs/large-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 79484, "name": "4 entra\u00eenements par semaine" },
+      "started_at": "2025-03-10",
+      "ended_at": "2025-03-21",
+      "state": "in_progress",
+      "achievement": 13,
+      "achievement_days": "1/8",
+      "created_at": "2025-03-11T14:45:13Z",
+      "updated_at": "2025-03-11T14:50:23Z"
+    },
+    {
+      "id": 320325,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 82400,
+        "name": "test prog perso \u00e0 supp",
+        "caption": null,
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/82400",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 8,
+        "author": {
+          "id": 44320,
+          "name": "Demo Club",
+          "is_ghost": false,
+          "is_manager": false,
+          "is_coach": false,
+          "photos": [
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "thumbnail"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "small"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "large"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "medium-wide"
+            }
+          ],
+          "type": "club"
+        },
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 82239, "name": "7 entra\u00eenements par semaine" },
+      "started_at": "2025-03-17",
+      "ended_at": "2025-05-11",
+      "state": "todo",
+      "achievement": 0,
+      "achievement_days": "0/56",
+      "created_at": "2025-03-11T14:49:32Z",
+      "updated_at": "2025-03-11T14:49:33Z"
+    },
+    {
+      "id": 320314,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 82385,
+        "name": "Programme avec video test sam",
+        "caption": null,
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/82385",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 8,
+        "author": {
+          "id": 44320,
+          "name": "Demo Club",
+          "is_ghost": false,
+          "is_manager": false,
+          "is_coach": false,
+          "photos": [
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "thumbnail"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "small"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "large"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "medium-wide"
+            }
+          ],
+          "type": "club"
+        },
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 82224, "name": "1 entra\u00eenements par semaine" },
+      "started_at": "2024-09-02",
+      "ended_at": "2024-10-21",
+      "state": "todo",
+      "achievement": 0,
+      "achievement_days": "0/8",
+      "created_at": "2024-09-02T07:54:35Z",
+      "updated_at": "2024-09-02T07:54:44Z"
+    },
+    {
+      "id": 320302,
+      "object": "user_program_simplified",
+      "program": {
+        "id": 82389,
+        "name": "test prog avec form test prog avec form test prog fin ",
+        "caption": null,
+        "is_deleted": null,
+        "is_favorite": null,
+        "can_favorite": true,
+        "url": "https://api.azeoo.dev/v1/programs/82389",
+        "purchase": null,
+        "purchase_v2": null,
+        "is_premium": false,
+        "need_subscription": false,
+        "subscriptions_info": null,
+        "total_days": null,
+        "total_weeks": 8,
+        "author": {
+          "id": 44320,
+          "name": "Demo Club",
+          "is_ghost": false,
+          "is_manager": false,
+          "is_coach": false,
+          "photos": [
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "thumbnail"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "small"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "large"
+            },
+            {
+              "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+              "label": "medium-wide"
+            }
+          ],
+          "type": "club"
+        },
+        "images": [
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+            "label": "thumbnail"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+            "label": "small"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+            "label": "medium"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+            "label": "large"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+            "label": "small-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+            "label": "medium-wide"
+          },
+          {
+            "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+            "label": "large-wide"
+          }
+        ]
+      },
+      "version": { "id": 82228, "name": "4 entra\u00eenements par semaine" },
+      "started_at": "2024-07-29",
+      "ended_at": "2024-09-20",
+      "state": "todo",
+      "achievement": 0,
+      "achievement_days": "0/24",
+      "created_at": "2024-07-26T00:18:38Z",
+      "updated_at": "2024-07-26T00:18:38Z"
+    }
+  ],
+  "coach": null,
+  "clubs": [
+    {
+      "id": 124858,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": null,
+      "has_member_id": false,
+      "name": "1111",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/124858",
+      "city": null,
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": null,
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": null,
+      "history_enabled": false,
+      "connector": null,
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": null,
+      "booking": null,
+      "booking_url": null,
+      "has_video_classes": false,
+      "zfitness_enabled": false,
+      "lesmills_enabled": false,
+      "chat_enabled": true,
+      "max_athlete": 50,
+      "booking_enabled": true,
+      "bookings_count": 0,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": false,
+      "shopify_enabled": false,
+      "nutrition_plan_additionnal_data_enabled": false,
+      "timezone": "Europe/Paris",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "gym",
+      "account_type": "plus",
+      "photos": [],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 431154,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": "2024-08-28 14:36:05.000000",
+          "canceled_at": null,
+          "ended_at": "2024-09-11T14:36:05Z",
+          "is_trial": true
+        }
+      ],
+      "coachs": null
+    },
+    {
+      "id": 124859,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": null,
+      "has_member_id": false,
+      "name": "122",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/124859",
+      "city": null,
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": "France",
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": null,
+      "history_enabled": false,
+      "connector": null,
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": null,
+      "booking": null,
+      "booking_url": null,
+      "has_video_classes": false,
+      "zfitness_enabled": false,
+      "lesmills_enabled": false,
+      "chat_enabled": false,
+      "max_athlete": 50,
+      "booking_enabled": true,
+      "bookings_count": 3,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": true,
+      "shopify_enabled": false,
+      "nutrition_plan_additionnal_data_enabled": false,
+      "timezone": "Europe/Paris",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "gym",
+      "account_type": "plus",
+      "photos": [],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 431155,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": "2024-08-29 09:04:02.000000",
+          "canceled_at": null,
+          "ended_at": "2024-09-12T09:04:02Z",
+          "is_trial": true
+        },
+        {
+          "object": "subscription_stripe",
+          "status": 0,
+          "user_id": 431155,
+          "sku": "12_months_essential",
+          "name": "Essential",
+          "type": "club",
+          "started_at": "2024-09-09T12:41:42Z",
+          "canceled_at": "2024-12-08T12:50:44Z",
+          "ended_at": "2025-09-09T12:41:42Z",
+          "trial_end": null,
+          "stripe_status": "canceled",
+          "items": null
+        }
+      ],
+      "coachs": null
+    },
+    {
+      "id": 124855,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": null,
+      "has_member_id": false,
+      "name": "2555",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/124855",
+      "city": null,
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": null,
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": null,
+      "history_enabled": false,
+      "connector": null,
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": null,
+      "booking": null,
+      "booking_url": null,
+      "has_video_classes": false,
+      "zfitness_enabled": false,
+      "lesmills_enabled": false,
+      "chat_enabled": false,
+      "max_athlete": 50,
+      "booking_enabled": true,
+      "bookings_count": 0,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": false,
+      "shopify_enabled": false,
+      "nutrition_plan_additionnal_data_enabled": false,
+      "timezone": "Europe/Paris",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "gym",
+      "account_type": "plus",
+      "photos": [],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 431148,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": "2024-07-31 12:10:50.000000",
+          "canceled_at": null,
+          "ended_at": "2024-08-14T12:10:50Z",
+          "is_trial": true
+        },
+        {
+          "object": "subscription_stripe",
+          "status": 0,
+          "user_id": 431148,
+          "sku": "12_months_essential",
+          "name": "Essential",
+          "type": "club",
+          "started_at": "2024-07-31T12:11:47Z",
+          "canceled_at": "2024-10-29T12:41:35Z",
+          "ended_at": "2025-07-31T12:11:47Z",
+          "trial_end": null,
+          "stripe_status": "canceled",
+          "items": null
+        }
+      ],
+      "coachs": null
+    },
+    {
+      "id": 124863,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": null,
+      "has_member_id": false,
+      "name": "AAAAA",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/124863",
+      "city": null,
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": "France",
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": null,
+      "history_enabled": false,
+      "connector": null,
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": null,
+      "booking": null,
+      "booking_url": null,
+      "has_video_classes": false,
+      "zfitness_enabled": false,
+      "lesmills_enabled": false,
+      "chat_enabled": true,
+      "max_athlete": 50,
+      "booking_enabled": true,
+      "bookings_count": 0,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": true,
+      "shopify_enabled": false,
+      "nutrition_plan_additionnal_data_enabled": false,
+      "timezone": "Etc/UCT",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "gym",
+      "account_type": "plus",
+      "photos": [],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 431184,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": "2024-11-22 09:58:01.000000",
+          "canceled_at": null,
+          "ended_at": "2024-12-06T09:58:01Z",
+          "is_trial": true
+        }
+      ],
+      "coachs": null
+    },
+    {
+      "id": 44320,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": null,
+      "has_member_id": false,
+      "name": "Demo Club",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/44320",
+      "city": "Montpellier",
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": "Rond-Point Benjamin Franklin, Montpellier, Occitanie, 34000, France",
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": null,
+      "history_enabled": false,
+      "connector": null,
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": "https://deci.plus/?link=https://member-app.deciplus.pro/decibody/decipass/4902&apn=com.lodecom.apps.deciplusmember&ibi=com.lodecom.apps.deciplusmember&isi=1519197587",
+      "booking": null,
+      "booking_url": null,
+      "has_video_classes": true,
+      "zfitness_enabled": true,
+      "lesmills_enabled": true,
+      "chat_enabled": true,
+      "max_athlete": 50,
+      "booking_enabled": true,
+      "bookings_count": 53,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": true,
+      "shopify_enabled": true,
+      "nutrition_plan_additionnal_data_enabled": true,
+      "timezone": "Europe/Paris",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "coach",
+      "account_type": "plus",
+      "photos": [
+        {
+          "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+          "label": "thumbnail"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+          "label": "small"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+          "label": "large"
+        },
+        {
+          "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+          "label": "medium-wide"
+        }
+      ],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 69463,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": null,
+          "canceled_at": null,
+          "ended_at": null,
+          "is_trial": true
+        }
+      ],
+      "coachs": null
+    },
+    {
+      "id": 124854,
+      "object": "club_simplified",
+      "parent_id": null,
+      "member_id": "5fc1d541-35a6-4f21-84a4-1e15a3a16b40",
+      "has_member_id": false,
+      "name": "Sportigo",
+      "short_name": null,
+      "url": "https://api.azeoo.dev/v1/clubs/124854",
+      "city": null,
+      "country_code": "FR",
+      "country_flag": "https://flagcdn.com/64x48/fr.png",
+      "formatted_address": null,
+      "distance": null,
+      "membership_state": "success",
+      "connector_type": "sportigo",
+      "history_enabled": false,
+      "connector": {
+        "type": "sportigo",
+        "key": null,
+        "zone_id": null,
+        "booking_multiselect": true,
+        "groups_enabled": false,
+        "coaches_enabled": false,
+        "history_enabled": false
+      },
+      "qrcode_enabled": false,
+      "qrcode_type": null,
+      "qrcode_url": null,
+      "booking": "private",
+      "booking_url": null,
+      "has_video_classes": false,
+      "zfitness_enabled": false,
+      "lesmills_enabled": false,
+      "chat_enabled": true,
+      "max_athlete": 50,
+      "booking_enabled": false,
+      "bookings_count": 0,
+      "diago_link_enabled": false,
+      "invoices_link_enabled": false,
+      "external_products_enabled": false,
+      "is_ghost": false,
+      "white_label": null,
+      "stripe_enabled": false,
+      "shopify_enabled": false,
+      "nutrition_plan_additionnal_data_enabled": false,
+      "timezone": "Europe/Paris",
+      "is_member": true,
+      "is_manager": false,
+      "is_coach": false,
+      "type": "gym",
+      "account_type": "plus",
+      "photos": [],
+      "subscriptions": [
+        {
+          "object": "subscription",
+          "status": 1,
+          "user_id": 431145,
+          "sku": "trial",
+          "name": "Trial",
+          "type": "club",
+          "started_at": "2024-07-10 13:48:25.000000",
+          "canceled_at": null,
+          "ended_at": "2024-07-24T13:48:25Z",
+          "is_trial": true
+        }
+      ],
+      "coachs": null
+    }
+  ],
+  "coachs": null,
+  "teams": null,
+  "quotes": "Crossfit + Muscu : je vais \u00eatre sec comme un raisin.",
+  "about": "",
+  "about_diet": null,
+  "about_training": null,
+  "about_training_schedule": null,
+  "contacts": {
+    "twitter": null,
+    "facebook": null,
+    "instagram": null,
+    "pinterest": null,
+    "tiktok": null,
+    "snapchat": null,
+    "youtube": null,
+    "website": "test",
+    "email": null,
+    "phone": null
+  },
+  "is_email_verified": true,
+  "is_setup_done": true,
+  "setup_fields": {
+    "password": false,
+    "club_id": false,
+    "birthday": true,
+    "gender": true,
+    "level": true,
+    "goal": true
+  },
+  "is_test": false,
+  "has_cometchat_account": true,
+  "chat_enabled": true,
+  "training_permission": "public",
+  "nutrition_permission": "coach",
+  "clubs_permission": "public",
+  "coachs_permission": "private",
+  "body_permission": "coach",
+  "leaderboard_disabled": false,
+  "subscriptions": [
+    {
+      "sku": "gympass",
+      "status": 1,
+      "name": "PREMIUM GYMPASS",
+      "stripe_customer_id": null,
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": null,
+      "started_at": null,
+      "canceled_at": null,
+      "ended_at": null,
+      "commitment_until_at": null,
+      "price": null,
+      "payment_method": null,
+      "is_trial": false
+    },
+    {
+      "sku": "unlimited",
+      "status": 1,
+      "name": "PREMIUM",
+      "stripe_customer_id": null,
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": null,
+      "started_at": null,
+      "canceled_at": null,
+      "ended_at": null,
+      "commitment_until_at": null,
+      "price": null,
+      "payment_method": null,
+      "is_trial": false
+    },
+    {
+      "sku": "subscription_5303",
+      "name": "test abo staging club connect",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-10-29T09:10:09Z",
+      "canceled_at": "2024-11-27T09:17:20Z",
+      "ended_at": "2024-11-29T09:10:09Z",
+      "commitment_until_at": null,
+      "price": "10,00\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX19KX+sS4S78RYaFvoH4ejbrF4N/wll6+5pStq6VpxVIRgdZB6jDKdVdxTxC1fEYxeBD94q8wE+gdO6lx/unGl+XZY8XGCmPKAA=",
+        "subscription_id": "sub_1Pt4MnAVygmRBkRmf8b2GGMq"
+      },
+      "stripe_customer_id": "cus_QkZTyqWLm7v7xh",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5300",
+      "name": "Abo par cher pour tester la staging",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-10-29T08:29:30Z",
+      "canceled_at": "2024-11-27T08:50:06Z",
+      "ended_at": "2024-11-29T08:29:30Z",
+      "commitment_until_at": null,
+      "price": "11,50\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX1/hCqeD4ACGEzHpkvUBr7Nl2sacu8u4thUncwHo36Y5fa13SPcTGwWu9lDnAiNI84xDWfAgS/2krjFD9rxNxcmflNafN+os76o=",
+        "subscription_id": "sub_1Pt3jSKyKRwAWc0nIBOXQkYV"
+      },
+      "stripe_customer_id": "cus_GlWdoDjBO4URAn",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5270",
+      "name": "test abo sam",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-10-20T16:06:29Z",
+      "canceled_at": "2024-11-18T16:27:26Z",
+      "ended_at": "2024-11-20T16:06:29Z",
+      "commitment_until_at": null,
+      "price": "10,00\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX1/qVhYc6ikaKFG+fyBlFrcormYjqLUD+yuEu3ho1dzLG9U57yOTNrQN4QkPVe2OxYy5uR+6EYMJcjlGTa0R/Pmzjgwbw3qLLAE=",
+        "subscription_id": "sub_1PpuZlAMJLZ6cDOPWL1809Sl"
+      },
+      "stripe_customer_id": "cus_QRoNFNsFrvXU6O",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5270",
+      "name": "test abo sam",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-10-20T16:04:44Z",
+      "canceled_at": "2024-11-18T16:25:42Z",
+      "ended_at": "2024-11-20T16:04:44Z",
+      "commitment_until_at": null,
+      "price": "10,00\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX191Zn35WVsZvFVwQxGtlBId/rk1bAzBK1P5t015n3x+m6aXs9wy3GNDSubw7d/CoK7WtXWtQBCPlZZgyggUqWGQQazJ6FE01Ec=",
+        "subscription_id": "sub_1PpuY4AMJLZ6cDOPbQrVRQiT"
+      },
+      "stripe_customer_id": "cus_QRoNFNsFrvXU6O",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5300",
+      "name": "Abo par cher pour tester la staging",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-08-27T15:30:25Z",
+      "canceled_at": "2024-08-29T08:24:19Z",
+      "ended_at": "2024-09-27T15:30:25Z",
+      "commitment_until_at": null,
+      "price": "11,50\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX1+g8ZjsRxbbKJAHgbF1tCF4CZawP7HzIyOIQ0mD9zilfDTF3peT0wS7g9LDnciyyJyG14m4pfVUUXlIZzudCAvtpTDdja4/fxY=",
+        "subscription_id": "sub_1PsRLhKyKRwAWc0ntysXlxmY"
+      },
+      "stripe_customer_id": "cus_GlWdoDjBO4URAn",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5278",
+      "name": "test abo 1555",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-08-26T15:34:58Z",
+      "canceled_at": "2024-08-27T13:24:44Z",
+      "ended_at": "2024-09-26T15:34:58Z",
+      "commitment_until_at": null,
+      "price": "1\u202f555,00\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX1+EySYmiLRGZEXh0YfGDqWJ+SUjzGUjBsNBAdKpqP61lBOhJBG35jEom67eBT2Od8jsnCqK0LSRpoE7Vd1kRIgUhg0HKiFiruo=",
+        "subscription_id": "sub_1Ps4wYKyKRwAWc0nc54dysJy"
+      },
+      "stripe_customer_id": "cus_GlWdoDjBO4URAn",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5278",
+      "name": "test abo 1555",
+      "type": "athlete",
+      "can_cancel": true,
+      "white_label_id": null,
+      "started_at": "2024-08-22T08:09:55Z",
+      "canceled_at": "2024-08-22T08:11:18Z",
+      "ended_at": "2024-09-22T08:09:55Z",
+      "commitment_until_at": null,
+      "price": "1\u202f200,00\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 0,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX18XWKTmBBV6vvuJ/9MwZr8bvzfRhGKNGe2sMikx/21f9YmWMWYZhEIvIrcdS7tL9gU6kwbGVgM+8jZwpxTXsPvDBeyfpcqbIBU=",
+        "subscription_id": "sub_1PqW5gKyKRwAWc0nCcr94DdI"
+      },
+      "stripe_customer_id": "cus_GlWdoDjBO4URAn",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "canceled",
+      "items": null
+    },
+    {
+      "sku": "subscription_5215",
+      "name": "test abo 1",
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": null,
+      "started_at": "2024-05-03T15:23:25Z",
+      "canceled_at": null,
+      "ended_at": "2024-06-03T15:23:25Z",
+      "commitment_until_at": null,
+      "price": "1,99\u00a0\u20ac",
+      "month": 1,
+      "trial_period_days": 15,
+      "payment_method": {
+        "type": "web",
+        "url": "https://api.azeoo.dev/v1/users/me/subscriptions/stripe/U2FsdGVkX18TOc9XREsHutnajP6/OLweFZuu/luGR5oOuI5OqRzW+AEYcQbNdp5iheNtyzIjesg1lDcrxi0TkaXf0N9seSiQRY0nfeiaK0Y=",
+        "subscription_id": "sub_1PCNxJJ3N9Nfhzz3u1GcRZLs"
+      },
+      "stripe_customer_id": "cus_Q2St8UvsxksKEE",
+      "trial_end": null,
+      "status": 0,
+      "stripe_status": "active",
+      "items": null
+    },
+    {
+      "sku": "1_month_fitmass2",
+      "status": 0,
+      "name": "FITMASS NOW",
+      "stripe_customer_id": null,
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": 4,
+      "started_at": null,
+      "canceled_at": null,
+      "ended_at": "2022-01-20T17:53:39Z",
+      "commitment_until_at": null,
+      "price": null,
+      "payment_method": null,
+      "is_trial": false
+    },
+    {
+      "sku": "fitmass",
+      "status": 0,
+      "name": "FITMASS NOW",
+      "stripe_customer_id": null,
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": 4,
+      "started_at": null,
+      "canceled_at": null,
+      "ended_at": "2022-01-20T17:52:55Z",
+      "commitment_until_at": null,
+      "price": null,
+      "payment_method": null,
+      "is_trial": false
+    },
+    {
+      "sku": "unlimited_fitnesscorporate",
+      "status": 0,
+      "name": "PREMIUM jusqu'au 31 d\u00e9c. 2020",
+      "stripe_customer_id": null,
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": 1,
+      "started_at": null,
+      "canceled_at": null,
+      "ended_at": "2021-01-01T00:00:00Z",
+      "commitment_until_at": null,
+      "price": null,
+      "payment_method": null,
+      "is_trial": false
+    },
+    {
+      "sku": "1_month",
+      "status": 0,
+      "name": "Premium 1 month",
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": null,
+      "started_at": "2019-12-24T12:57:22Z",
+      "canceled_at": "2019-12-24T10:21:43Z",
+      "ended_at": "2020-01-24T12:57:22Z",
+      "price": null,
+      "payment_method": { "type": "app_store", "url": null }
+    },
+    {
+      "sku": "1_month",
+      "status": 0,
+      "name": "Premium 1 month",
+      "type": "athlete",
+      "can_cancel": false,
+      "white_label_id": null,
+      "started_at": "2019-10-16T19:08:44Z",
+      "canceled_at": null,
+      "ended_at": "2019-10-16T19:27:09Z",
+      "price": "9,99\u00a0\u20ac",
+      "month": 1,
+      "payment_method": { "type": "google_play", "url": null }
+    }
+  ],
+  "subscription": {
+    "name": "PREMIUM GYMPASS",
+    "sku": "gympass",
+    "can_cancel": false
+  },
+  "white_labels": [
+    { "id": 33, "key": "infinyfit" },
+    { "id": 86, "key": "twinsbfit" },
+    { "id": 25, "key": "lappartfitness" }
+  ],
+  "sso_oneconciergerie_enabled": false,
+  "timezone": "Europe/Paris",
+  "premium_label": null,
+  "disabled_premium": false,
+  "diago_link": null,
+  "invoices_link": null,
+  "created_at": "2017-10-04T01:21:46Z",
+  "updated_at": "2025-02-28T19:47:03Z",
+  "last_activity": "2025-02-28T19:47:03Z",
+  "contents": [
+    {
+      "name": "Programmes",
+      "caption": null,
+      "url": "https://api.azeoo.dev/v1/users/1/programs",
+      "type": "large",
+      "items": [
+        {
+          "id": 320323,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 82401,
+            "name": "Test prog delete",
+            "caption": null,
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/82401",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 8,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": {
+            "id": 82240,
+            "name": "2 entra\u00eenements par semaine"
+          },
+          "started_at": "2025-03-10",
+          "ended_at": "2025-03-11",
+          "state": "in_progress",
+          "achievement": 50,
+          "achievement_days": "1/2",
+          "created_at": "2025-03-10T08:33:18Z",
+          "updated_at": "2025-03-11T14:40:59Z"
+        },
+        {
+          "id": 320324,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 79630,
+            "name": "Cuisses / abdos / fessier",
+            "caption": null,
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/79630",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 2,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/thumbnail/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/small/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/medium/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/large/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/small-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/medium-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/programs/large-wide/sans-titre-53-5eaedb9e31e4a.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": {
+            "id": 79484,
+            "name": "4 entra\u00eenements par semaine"
+          },
+          "started_at": "2025-03-10",
+          "ended_at": "2025-03-21",
+          "state": "in_progress",
+          "achievement": 13,
+          "achievement_days": "1/8",
+          "created_at": "2025-03-11T14:45:13Z",
+          "updated_at": "2025-03-11T14:50:23Z"
+        },
+        {
+          "id": 320325,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 82400,
+            "name": "test prog perso \u00e0 supp",
+            "caption": null,
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/82400",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 8,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": {
+            "id": 82239,
+            "name": "7 entra\u00eenements par semaine"
+          },
+          "started_at": "2025-03-17",
+          "ended_at": "2025-05-11",
+          "state": "todo",
+          "achievement": 0,
+          "achievement_days": "0/56",
+          "created_at": "2025-03-11T14:49:32Z",
+          "updated_at": "2025-03-11T14:49:33Z"
+        },
+        {
+          "id": 320314,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 82385,
+            "name": "Programme avec video test sam",
+            "caption": null,
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/82385",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 8,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": {
+            "id": 82224,
+            "name": "1 entra\u00eenements par semaine"
+          },
+          "started_at": "2024-09-02",
+          "ended_at": "2024-10-21",
+          "state": "todo",
+          "achievement": 0,
+          "achievement_days": "0/8",
+          "created_at": "2024-09-02T07:54:35Z",
+          "updated_at": "2024-09-02T07:54:44Z"
+        },
+        {
+          "id": 320302,
+          "object": "user_program_simplified",
+          "program": {
+            "id": 82389,
+            "name": "test prog avec form test prog avec form test prog fin ",
+            "caption": null,
+            "is_deleted": null,
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/programs/82389",
+            "purchase": null,
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 8,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "version": {
+            "id": 82228,
+            "name": "4 entra\u00eenements par semaine"
+          },
+          "started_at": "2024-07-29",
+          "ended_at": "2024-09-20",
+          "state": "todo",
+          "achievement": 0,
+          "achievement_days": "0/24",
+          "created_at": "2024-07-26T00:18:38Z",
+          "updated_at": "2024-07-26T00:18:38Z"
+        }
+      ]
+    },
+    {
+      "name": "Plans nutritionnels",
+      "caption": null,
+      "url": "https://api.azeoo.dev/v1/users/1/nutritions/plans",
+      "type": "large",
+      "items": [
+        {
+          "id": 13077,
+          "object": "user_nutrition_plan_simplified",
+          "url": "https://api.azeoo.dev/v1/user/1/nutritions/plans/13077",
+          "nutrition_plan": {
+            "id": 8106,
+            "name": "S\u00e8che 2100 kcal",
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/nutritions/plans/8106",
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 9,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/thumbnail/nouveau-projet-1-637df21907454.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small/nouveau-projet-1-637df21907454.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large/nouveau-projet-1-637df21907454.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "started_at": "2025-03-13",
+          "ended_at": "2025-05-14",
+          "state": "in_progress",
+          "created_at": "2025-03-13T15:22:20Z",
+          "updated_at": null
+        },
+        {
+          "id": 13070,
+          "object": "user_nutrition_plan_simplified",
+          "url": "https://api.azeoo.dev/v1/user/1/nutritions/plans/13070",
+          "nutrition_plan": {
+            "id": 10256,
+            "name": "test chevauchement",
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/nutritions/plans/10256",
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 4,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/thumbnail/plan.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/small/plan.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/medium/plan.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/large/plan.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/small-wide/plan.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/medium-wide/plan.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/large-wide/plan.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "started_at": "2024-08-13",
+          "ended_at": "2025-03-11",
+          "state": "canceled",
+          "created_at": "2024-08-13T09:26:02Z",
+          "updated_at": "2025-03-11T13:20:52Z"
+        },
+        {
+          "id": 13069,
+          "object": "user_nutrition_plan_simplified",
+          "url": "https://api.azeoo.dev/v1/user/1/nutritions/plans/13069",
+          "nutrition_plan": {
+            "id": 8106,
+            "name": "S\u00e8che 2100 kcal",
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/nutritions/plans/8106",
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 9,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/thumbnail/nouveau-projet-1-637df21907454.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small/nouveau-projet-1-637df21907454.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large/nouveau-projet-1-637df21907454.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "started_at": "2024-07-15",
+          "ended_at": "2024-07-18",
+          "state": "canceled",
+          "created_at": "2024-07-15T07:57:01Z",
+          "updated_at": null
+        },
+        {
+          "id": 13066,
+          "object": "user_nutrition_plan_simplified",
+          "url": "https://api.azeoo.dev/v1/user/1/nutritions/plans/13066",
+          "nutrition_plan": {
+            "id": 10255,
+            "name": "test 1",
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/nutritions/plans/10255",
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 4,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/thumbnail/plan.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/small/plan.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/medium/plan.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/large/plan.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/small-wide/plan.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/medium-wide/plan.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/mixed/large-wide/plan.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "started_at": "2024-06-25",
+          "ended_at": "2024-07-02",
+          "state": "canceled",
+          "created_at": "2024-06-25T15:04:25Z",
+          "updated_at": null
+        },
+        {
+          "id": 9976,
+          "object": "user_nutrition_plan_simplified",
+          "url": "https://api.azeoo.dev/v1/user/1/nutritions/plans/9976",
+          "nutrition_plan": {
+            "id": 8061,
+            "name": "S\u00e8che 2100 kcal",
+            "is_favorite": null,
+            "can_favorite": true,
+            "url": "https://api.azeoo.dev/v1/nutritions/plans/8061",
+            "purchase_v2": null,
+            "is_premium": false,
+            "need_subscription": false,
+            "subscriptions_info": null,
+            "total_days": null,
+            "total_weeks": 9,
+            "author": {
+              "id": 44320,
+              "name": "Demo Club",
+              "is_ghost": false,
+              "is_manager": false,
+              "is_coach": false,
+              "photos": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                  "label": "medium-wide"
+                }
+              ],
+              "type": "club"
+            },
+            "images": [
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/thumbnail/nouveau-projet-1-637df21907454.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small/nouveau-projet-1-637df21907454.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large/nouveau-projet-1-637df21907454.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/small-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "small-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/medium-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "medium-wide"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/nutritions_plans/large-wide/nouveau-projet-1-637df21907454.jpg",
+                "label": "large-wide"
+              }
+            ]
+          },
+          "started_at": "2023-12-01",
+          "ended_at": "2023-12-12",
+          "state": "canceled",
+          "created_at": "2023-12-01T12:16:26Z",
+          "updated_at": null
+        }
+      ]
+    },
+    {
+      "name": "Questionnaires",
+      "caption": null,
+      "url": "https://api.azeoo.dev/v1/forms",
+      "type": "large",
+      "items": [
+        {
+          "id": "4189",
+          "object": "form_simplified",
+          "share": "all",
+          "url": "https://api.azeoo.dev/v1/forms/4189",
+          "name": "Onboarding",
+          "images": null,
+          "author": {
+            "id": 44320,
+            "name": "Demo Club",
+            "is_ghost": false,
+            "is_manager": false,
+            "is_coach": false,
+            "photos": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "medium-wide"
+              }
+            ],
+            "type": "club"
+          },
+          "coach": {
+            "id": 69463,
+            "first_name": "Mike",
+            "last_name": "Harold",
+            "picture": [
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/thumbnail/676568b8b6e78.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/small/676568b8b6e78.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/large/676568b8b6e78.jpg",
+                "label": "large"
+              }
+            ],
+            "account_type": "free",
+            "is_following": true,
+            "coach_attachment_state": null,
+            "gender": "female",
+            "type": "user"
+          },
+          "state": "todo",
+          "steps_count": 6,
+          "date": null,
+          "response_date": null,
+          "created_at": "2025-01-28T10:20:36Z",
+          "training_id": null,
+          "nutrition_plan": null,
+          "user_program": null,
+          "user_nutrition_plan": null
+        },
+        {
+          "id": "4188",
+          "object": "form_simplified",
+          "share": "all",
+          "url": "https://api.azeoo.dev/v1/forms/4188",
+          "name": "test yo",
+          "images": null,
+          "author": {
+            "id": 44320,
+            "name": "Demo Club",
+            "is_ghost": false,
+            "is_manager": false,
+            "is_coach": false,
+            "photos": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "medium-wide"
+              }
+            ],
+            "type": "club"
+          },
+          "coach": {
+            "id": 69463,
+            "first_name": "Mike",
+            "last_name": "Harold",
+            "picture": [
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/thumbnail/676568b8b6e78.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/small/676568b8b6e78.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/large/676568b8b6e78.jpg",
+                "label": "large"
+              }
+            ],
+            "account_type": "free",
+            "is_following": true,
+            "coach_attachment_state": null,
+            "gender": "female",
+            "type": "user"
+          },
+          "state": "todo",
+          "steps_count": 1,
+          "date": null,
+          "response_date": null,
+          "created_at": "2025-01-23T15:23:04Z",
+          "training_id": null,
+          "nutrition_plan": null,
+          "user_program": null,
+          "user_nutrition_plan": null
+        },
+        {
+          "id": "4185",
+          "object": "form_simplified",
+          "share": "all",
+          "url": "https://api.azeoo.dev/v1/forms/4185",
+          "name": "Test AD 2",
+          "images": null,
+          "author": {
+            "id": 44320,
+            "name": "Demo Club",
+            "is_ghost": false,
+            "is_manager": false,
+            "is_coach": false,
+            "photos": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "medium-wide"
+              }
+            ],
+            "type": "club"
+          },
+          "coach": {
+            "id": 69463,
+            "first_name": "Mike",
+            "last_name": "Harold",
+            "picture": [
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/thumbnail/676568b8b6e78.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/small/676568b8b6e78.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/large/676568b8b6e78.jpg",
+                "label": "large"
+              }
+            ],
+            "account_type": "free",
+            "is_following": true,
+            "coach_attachment_state": null,
+            "gender": "female",
+            "type": "user"
+          },
+          "state": "todo",
+          "steps_count": 4,
+          "date": "2024-09-10",
+          "response_date": null,
+          "created_at": "2024-09-02T07:53:52Z",
+          "training_id": 12339186,
+          "nutrition_plan": null,
+          "user_program": null,
+          "user_nutrition_plan": null
+        },
+        {
+          "id": "4186",
+          "object": "form_simplified",
+          "share": "all",
+          "url": "https://api.azeoo.dev/v1/forms/4186",
+          "name": "Test AD 2",
+          "images": null,
+          "author": {
+            "id": 44320,
+            "name": "Demo Club",
+            "is_ghost": false,
+            "is_manager": false,
+            "is_coach": false,
+            "photos": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "medium-wide"
+              }
+            ],
+            "type": "club"
+          },
+          "coach": {
+            "id": 69463,
+            "first_name": "Mike",
+            "last_name": "Harold",
+            "picture": [
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/thumbnail/676568b8b6e78.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/small/676568b8b6e78.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/large/676568b8b6e78.jpg",
+                "label": "large"
+              }
+            ],
+            "account_type": "free",
+            "is_following": true,
+            "coach_attachment_state": null,
+            "gender": "female",
+            "type": "user"
+          },
+          "state": "todo",
+          "steps_count": 4,
+          "date": "2024-09-02",
+          "response_date": null,
+          "created_at": "2024-09-02T07:54:43Z",
+          "training_id": 12339195,
+          "nutrition_plan": null,
+          "user_program": {
+            "id": 320314,
+            "object": "user_program_simplified",
+            "program": {
+              "id": 82385,
+              "name": "Programme avec video test sam",
+              "caption": null,
+              "url": "https://api.azeoo.dev/v1/programs/82385",
+              "total_days": null,
+              "total_weeks": 8,
+              "author": {
+                "id": 44320,
+                "name": "Demo Club",
+                "is_ghost": false,
+                "is_manager": false,
+                "is_coach": false,
+                "photos": [
+                  {
+                    "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                    "label": "thumbnail"
+                  },
+                  {
+                    "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                    "label": "small"
+                  },
+                  {
+                    "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                    "label": "large"
+                  },
+                  {
+                    "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                    "label": "medium-wide"
+                  }
+                ],
+                "type": "club"
+              },
+              "images": [
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/club-demo-44320.jpg",
+                  "label": "thumbnail"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small/club-demo-44320.jpg",
+                  "label": "small"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium/club-demo-44320.jpg",
+                  "label": "medium"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large/club-demo-44320.jpg",
+                  "label": "large"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/small-wide/club-demo-44320.jpg",
+                  "label": "small-wide"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/club-demo-44320.jpg",
+                  "label": "medium-wide"
+                },
+                {
+                  "url": "https://cdn-staging.azeoo.com/clubs/44320/large-wide/club-demo-44320.jpg",
+                  "label": "large-wide"
+                }
+              ],
+              "purchase_v2": null,
+              "is_premium": false,
+              "need_subscription": false,
+              "subscriptions_info": null,
+              "name_fr": "Programme avec video test sam",
+              "caption_fr": null
+            },
+            "started_at": "2024-09-02",
+            "ended_at": "2024-10-21",
+            "state": "todo",
+            "achievement": 0,
+            "achievement_days": "0/8",
+            "created_at": "2024-09-02T07:54:35Z",
+            "updated_at": "2024-09-02T07:54:44Z"
+          },
+          "user_nutrition_plan": null
+        },
+        {
+          "id": "4183",
+          "object": "form_simplified",
+          "share": "all",
+          "url": "https://api.azeoo.dev/v1/forms/4183",
+          "name": "Test AD 2",
+          "images": null,
+          "author": {
+            "id": 44320,
+            "name": "Demo Club",
+            "is_ghost": false,
+            "is_manager": false,
+            "is_coach": false,
+            "photos": [
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/thumbnail/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/small/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/large/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "large"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/clubs/44320/medium-wide/attachment-127273096-6765691d9b2a1.jpg",
+                "label": "medium-wide"
+              }
+            ],
+            "type": "club"
+          },
+          "coach": {
+            "id": 69463,
+            "first_name": "Mike",
+            "last_name": "Harold",
+            "picture": [
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/thumbnail/676568b8b6e78.jpg",
+                "label": "thumbnail"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/small/676568b8b6e78.jpg",
+                "label": "small"
+              },
+              {
+                "url": "https://cdn-staging.azeoo.com/users/69463/large/676568b8b6e78.jpg",
+                "label": "large"
+              }
+            ],
+            "account_type": "free",
+            "is_following": true,
+            "coach_attachment_state": null,
+            "gender": "female",
+            "type": "user"
+          },
+          "state": "todo",
+          "steps_count": 4,
+          "date": null,
+          "response_date": null,
+          "created_at": "2024-08-22T05:58:42Z",
+          "training_id": null,
+          "nutrition_plan": null,
+          "user_program": null,
+          "user_nutrition_plan": null
+        }
+      ]
+    }
+  ],
+  "can_contact": false,
+  "teams_count": 0,
+  "can_access_stats_all_periods": true,
+  "can_set_favorite": true,
+  "can_filter_by_equipment": true,
+  "can_automatically_update_next_training": true,
+  "can_create_exercise": true,
+  "can_create_free_training": true,
+  "can_log_activity": true,
+  "can_show_customers": false,
+  "can_delete_account": true,
+  "subscriptions_disabled": false
+}

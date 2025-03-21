@@ -1,0 +1,73 @@
+.DS_Store
+.dart_tool/
+
+.pub/
+
+.idea/
+.vagrant/
+.sconsign.dblite
+.svn/
+
+migrate_working_dir/
+
+*.swp
+profile
+
+DerivedData/
+
+.generated/
+
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+xcuserdata
+
+*.moved-aside
+
+*.pyc
+*sync/
+Icon?
+.tags*
+
+build/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Additional IDE files
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Additional build artifacts
+*.aar
+*.framework
+*.xcframework
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcworkspace/!default.xcworkspace/contents.xcworkspacedata
